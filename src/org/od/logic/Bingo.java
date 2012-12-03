@@ -7,6 +7,6 @@ public class Bingo {
 	List<String> field = new ArrayList<String>();
 	
 	public Bingo() {
-		field.add("Dummlabern");
+		field.add("Dummlabeln");
 	}
 }
