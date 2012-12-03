@@ -10,5 +10,6 @@ public class Bingo {
 		field.add("Dummbabbeln");
 		field.add("Eigene Frage beantwortet");
 		field.add("Mit wissen prahlen");
+		field.add("Ch klinke mich in laufende Gespräche ein");
 	}
 }
