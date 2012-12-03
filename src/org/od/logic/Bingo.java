@@ -8,6 +8,7 @@ public class Bingo {
 	
 	public Bingo() {
 		field.add("Dummbabbeln");
-		field.add("Eigene Fragen beantworten");
+		field.add("Eigene Frage beantwortet");
+		field.add("Mit wissen prahlen");
 	}
 }
