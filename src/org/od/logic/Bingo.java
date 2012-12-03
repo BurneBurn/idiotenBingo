@@ -7,6 +7,7 @@ public class Bingo {
 	List<String> field = new ArrayList<String>();
 	
 	public Bingo() {
-		field.add("Dummlabeln");
+		field.add("Dummbabbeln");
+		field.add("Eigene Fragen beantworten");
 	}
 }
